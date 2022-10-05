@@ -12,5 +12,7 @@
 // WHEN I refresh the page
 // THEN the saved events persist
 var today = moment();
+
 $("#currentDay").text(today.format("MMM Do, YYYY"));
-console.log(today);
+
+console.log("today", today);
