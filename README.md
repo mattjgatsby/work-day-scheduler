@@ -4,6 +4,7 @@
 This simple project was put together in order to keep track of your hourly tasks throughout a 9-5 work day. I put this together to practice localStorage and utilizing bootstrap to make html elements.
 
 # Vist the site!
+[Site link](https://mattjgatsby.github.io/work-day-scheduler/)
 
 ![site image](./assets/images/Work%20Day%20Scheduler.gif)
 
